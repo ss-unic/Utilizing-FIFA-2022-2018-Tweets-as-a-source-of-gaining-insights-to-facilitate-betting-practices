@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "daring-pier-375119",
+  "private_key_id": "52ad87c38fe4f89ddce90d91723eac244639b903",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDL41+mo7Mnt5dv\nR7eECFlrdC7QPmkMC5M00pwdvkvrcO5aH38k0pc8Eg0N/LnUkSFPBsscHYBrq+qn\nhwyi3U7PpH6A9+1eCCnHTZLpyogckCFbeIkqDJ3T62mPvXvqfJYUFnp4lSTmLsba\nF+SZwKZ9KQj6drt+k9uoXWaCQ1dTzMW0yusTeMAF/8rpYHQFDqkLlDZjeZ7BFJWc\n8AkSP4AYBcqj6WcSVgdO5NEaQ4fyoGkaIv2ixDroVGqjkiMrkyv55xZj4smWLOOx\n8SYhxB3IWKJq6beM/zNlHIJSBj+p3rxI1mMm0l4EOHQIE/6pK573tWqc6fHGG0eA\nAzFmQIVrAgMBAAECggEAOLzR6eAFI4jSEewNtCbUp3Ph8R5lAi6YbOss+ZPysZaw\nJZE9QwR9hIBrdJh/KBmpAMJdtDm7ensRZkRNLmdSnrLiZ0ZXHkM8SRObzgaH4Rb0\nyW0eEn8HTqlkq1TqDmNUKkvlEfhDF/EtchSTD3xOeGb6ciSnYX6I8m3ncFmIDC/h\nKmfjWzlLIxUyOOspdLFFdRZseYS4tlhTHd00VI4WvUG5pmiARp7MNHc9WCYKW2Rr\n2UegxXJUIHftL4x/US/sATidrefkS24khrM0UHJ6qSMTyg19S819HkwWrf8NkmXE\nz9jNXmm+37qu6P+E7IfmtlxwhADG/kDPBYXUQheO2QKBgQDobnwX0m8lWLuYZKYX\nEzjraw+9XIH2RmU6l9YUY0ni5VoUHbdubf5IWHBvnB6sy7XwpvZyILehun9gpOg4\npnYWgx8lC/GzZtSaOFb6SOIQe0bhR3vuuhm8yyPlM4Y0DPTVPEaoUNKJOAGYvXMt\nzynWpAz9/eXigpZq2l63d8lgyQKBgQDgj/PMbGjnR03LW94sWb9rdp5gj7+R67tG\nBJWj48gmq+xHDCJd1USJ65ALHhjq4aV324aFf8YYr+QwmM8A9mrBRJqh9sM0MQmG\npLwXbaENU9bAOy69RjaiJ38U5VEwWTclMHWhyndhZIzWnyVh6Mwi/Phfs223XRGy\nyoF6Y4likwKBgE9P3CJY2TpaM/FFbvNyyLp0VvObzHEYBlTfGNruInk9H+a7WSti\ndyGCpCNBl6oI/TV4E6JQDbkvJWX5/4/NJYB7D7aZg8le7m8NiIhxNErBdidLODv2\n3u9wNfhxA3thbG4S2l127tCJ/ul6xAG+rh0i75f/+mC3hNJDX4ylYF8ZAoGAcow7\nmm06Xa9bmX41KH5nTFPnme35lF+g2aiBBGautDtCfUNNTHv7SDcm9OTXZQjRNQB/\n8B0rWXBvf/KStTT9Y7SxBCkxja/t4gaqA3Fik7/ObaRCxT3JpJFtG6WV8omvvYKo\nnmz+1GlMBjaMBROQ/c/4iiimsMACxSbTQTEA5Y0CgYEAtwU3rCQ5Ez9IB+90I0Pq\nYln6PU8atvgXwr0xBeGNX64uHbgQIXAyvImwyfoq8AdbcOvTfyTVjnZTW6u91cEf\nDa6zk2NquNCgESCRA0Jol7oTHqvC+cQc51yEDd9b+EUz+NyrIgoxWrsVSNT9oFit\nAO66M+FQM3kvrNVECoQUR2Y=\n-----END PRIVATE KEY-----\n",
+  "client_email": "owner-project@daring-pier-375119.iam.gserviceaccount.com",
+  "client_id": "105929603669333741649",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/owner-project%40daring-pier-375119.iam.gserviceaccount.com"
+}
